@@ -25,6 +25,18 @@ label start:
     show reimu sweat
     r "But as usual I don’t have money to buy her anything…"
     hide reimu sweat
+    show reimu mad
+    r "Ahhhh what should I do?"
+    hide reimu mad
+    show yellowstone:
+        yalign 0.7
+        xalign 0.5
+    "As she continues walking she notices there’s something that shines on the ground"
+    show reimu shock at left
+    "She gets closer to it and realizes that there’s is a shining rock, as if it was a magic rock"
+    hide reimu shock
+    show reimu happy at left
+    r "Oh… This is so precious! Marisa likes to collect things so I’m sure she will like this!"
     # This shows a character sprite. A placeholder is used, but you can
     # replace it by adding a file named "eileen happy.png" to the images
     # directory.
