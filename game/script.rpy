@@ -31,7 +31,7 @@ label start:
     show marisa
     e "She's so cute but I can't tell her that!"
     "As she began to contemplate these thoughts, she noticed a bright purple star growing larger in the distance."
-    "What is that?"
+    jump chapter2
     # This ends the game.
 
     return
