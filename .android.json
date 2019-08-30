@@ -1,0 +1,1 @@
+{"layout": null, "package": "com.chaoscutesoft.nightwhispers", "include_pil": false, "numeric_version": "100", "expansion": false, "name": "Night Whispers", "update_always": true, "source": false, "icon_name": "Night Whispers", "version": "1.0", "update_icons": true, "permissions": ["VIBRATE"], "include_sqlite": false, "store": "none", "orientation": "sensorLandscape"}
